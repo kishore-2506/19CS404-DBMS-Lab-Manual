@@ -421,3 +421,5 @@ VALUES (308, 'Peter Parker', 'Queens', '11375');
 
 ## RESULT
 Thus, the SQL queries to implement different types of constraints and DDL commands have been executed successfully.
+
+![image](https://github.com/user-attachments/assets/d4a44ea6-c0a5-4803-97b0-287246937f28)
