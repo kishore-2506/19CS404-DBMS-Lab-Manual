@@ -309,3 +309,7 @@ JOIN
 
 ## RESULT
 Thus, the SQL queries to implement different types of joins have been executed successfully.
+
+![image](https://github.com/user-attachments/assets/de18ef84-6f57-45e5-bd8b-974d868d51cc)
+
+![image](https://github.com/user-attachments/assets/3dd18381-1cf6-4e8f-9890-f73c305b9e46)
