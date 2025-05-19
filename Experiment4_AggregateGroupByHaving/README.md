@@ -192,3 +192,6 @@ from orders
 
 ## RESULT
 Thus, the SQL queries to implement aggregate functions, GROUP BY, and HAVING clause have been executed successfully.
+
+![image](https://github.com/user-attachments/assets/76f13057-b2ba-4b90-a996-696d78163b66)
+
