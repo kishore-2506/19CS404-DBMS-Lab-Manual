@@ -219,3 +219,7 @@ where dosage=(select max(dosage) from Medications)
 
 ## RESULT
 Thus, the SQL queries to implement subqueries and views have been executed successfully.
+
+![image](https://github.com/user-attachments/assets/24dd6d22-3ddb-4d2c-9b8f-7e8d1f448f8a)
+
+![image](https://github.com/user-attachments/assets/1b6404de-49db-4768-89ba-f886b00789c4)
