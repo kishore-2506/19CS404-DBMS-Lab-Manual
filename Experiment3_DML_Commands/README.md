@@ -203,3 +203,7 @@ WHERE
 
 ## RESULT
 Thus, the SQL queries to implement DML commands have been executed successfully.
+
+![image](https://github.com/user-attachments/assets/9c435fd5-da3c-4178-8ea9-4254e26289e3)
+
+![image](https://github.com/user-attachments/assets/344e4c6a-ae38-4c3f-bf97-56548d0e5c90)
